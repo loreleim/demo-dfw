@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: This is a post 2	</title>
-	<atom:link href="http://localhost/sandbox/2021/04/20/hello-world/feed/?simply_static_page=105" rel="self" type="application/rss+xml" />
-	<link>/2021/04/20/hello-world/</link>
+	<atom:link href="http://localhost/sandbox/2021/04/20/hello-world/feed/?simply_static_page=168" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Tue, 12 Oct 2021 08:30:08 +0000</lastBuildDate>
 	<sy:updatePeriod>

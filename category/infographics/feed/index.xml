@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Infographics &#8211; Sandbox</title>
-	<atom:link href="http://localhost/sandbox/category/infographics/feed/?simply_static_page=120" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="http://localhost/sandbox/category/infographics/feed/?simply_static_page=183" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Tue, 12 Oct 2021 08:29:18 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,46 +21,46 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>Hello i am making a post</title>
-		<link>/2021/09/23/hello-i-am-making-a-post/</link>
-					<comments>/2021/09/23/hello-i-am-making-a-post/#respond</comments>
+		<link>./../../../2021/09/23/hello-i-am-making-a-post/index.html</link>
+					<comments>./../../../2021/09/23/hello-i-am-making-a-post/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[root]]></dc:creator>
 		<pubDate>Thu, 23 Sep 2021 22:33:46 +0000</pubDate>
 				<category><![CDATA[Infographics]]></category>
 		<category><![CDATA[News Release]]></category>
 		<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=224</guid>
+		<guid isPermaLink="false">./../../../index.html?p=224</guid>
 
 					<description><![CDATA[I&#8217;m baby man bun tbh pitchfork freegan kogi. Franzen whatever blog prism vegan. Vinyl sriracha twee, chillwave tumblr snackwave meggings hell of. Retro brooklyn fashion axe, plaid crucifix vegan before they sold out vape post-ironic ugh la croix mumblecore austin. Organic bitters pinterest food truck 90&#8217;s occupy tote bag etsy tattooed stumptown keffiyeh sartorial iceland. [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <p>I&#8217;m baby man bun tbh pitchfork freegan kogi. Franzen whatever blog prism vegan. Vinyl sriracha twee, chillwave tumblr snackwave meggings hell of. Retro brooklyn fashion axe, plaid crucifix vegan before they sold out vape post-ironic ugh la croix mumblecore austin. Organic bitters pinterest food truck 90&#8217;s occupy tote bag etsy tattooed stumptown keffiyeh sartorial iceland. Hexagon mustache actually vice chartreuse hell of migas cronut. Pour-over semiotics fixie literally, seitan mlkshk portland.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2021/09/23/hello-i-am-making-a-post/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../2021/09/23/hello-i-am-making-a-post/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>This is an infographic</title>
-		<link>/2021/09/10/this-is-an-infographic/</link>
-					<comments>/2021/09/10/this-is-an-infographic/#respond</comments>
+		<link>./../../../2021/09/10/this-is-an-infographic/index.html</link>
+					<comments>./../../../2021/09/10/this-is-an-infographic/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[root]]></dc:creator>
 		<pubDate>Fri, 10 Sep 2021 20:47:53 +0000</pubDate>
 				<category><![CDATA[Infographics]]></category>
-		<guid isPermaLink="false">/?p=194</guid>
+		<guid isPermaLink="false">./../../../index.html?p=194</guid>
 
 					<description><![CDATA[Woke franzen single-origin coffee art party pop-up meh gochujang keffiyeh squid four dollar toast helvetica photo booth enamel pin organic. Meggings authentic hell of hashtag, single-origin coffee cold-pressed raclette shabby chic tofu. Tbh health goth retro try-hard bespoke roof party shoreditch pickled venmo marfa freegan +1. Letterpress 3 wolf moon keytar, direct trade master cleanse [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img decoding="async" width="960" height="540" src="/wp-content/uploads/2021/08/cat.png" alt="" class="wp-image-146" srcset="/wp-content/uploads/2021/08/cat.png 960w, /wp-content/uploads/2021/08/cat-300x169.png 300w, /wp-content/uploads/2021/08/cat-768x432.png 768w" sizes="(max-width: 960px) 100vw, 960px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="960" height="540" src="./../../../wp-content/uploads/2021/08/cat.png" alt="" class="wp-image-146" srcset="./../../../wp-content/uploads/2021/08/cat.png 960w, ./../../../wp-content/uploads/2021/08/cat-300x169.png 300w, ./../../../wp-content/uploads/2021/08/cat-768x432.png 768w" sizes="(max-width: 960px) 100vw, 960px" /></figure>
 
 
 
 <p>Woke franzen single-origin coffee art party pop-up meh gochujang keffiyeh squid four dollar toast helvetica photo booth enamel pin organic. Meggings authentic hell of hashtag, single-origin coffee cold-pressed raclette shabby chic tofu. Tbh health goth retro try-hard bespoke roof party shoreditch pickled venmo marfa freegan +1. Letterpress 3 wolf moon keytar, direct trade master cleanse chia af paleo occupy vexillologist. Mustache paleo 3 wolf moon hammock cornhole marfa church-key. 90&#8217;s swag readymade vegan thundercats, stumptown brooklyn ethical jianbing echo park small batch bushwick normcore dreamcatcher af. Trust fund yr occupy, mumblecore chicharrones edison bulb helvetica kinfolk distillery chambray.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2021/09/10/this-is-an-infographic/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../2021/09/10/this-is-an-infographic/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
