@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>unicorns &#8211; Sandbox</title>
+	<atom:link href="http://localhost/sandbox/category/unicorns/feed/?simply_static_page=126" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 12 Oct 2021 08:29:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>This is a post</title>
+		<link>/2021/04/29/testing-unicorns/</link>
+					<comments>/2021/04/29/testing-unicorns/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Thu, 29 Apr 2021 18:47:37 +0000</pubDate>
+				<category><![CDATA[unicorns]]></category>
+		<guid isPermaLink="false">/?p=14</guid>
+
+					<description><![CDATA[Organic paleo post-ironic blog readymade, normcore keffiyeh etsy pour-over. YOLO farm-to-table readymade, organic pabst succulents chambray. Chambray master cleanse XOXO glossier stumptown quinoa ramps hella post-ironic. Lo-fi etsy +1, vice vinyl seitan kitsch roof party iceland selfies tilde sartorial austin. Freegan activated charcoal VHS tumblr, kombucha lyft austin roof party flexitarian single-origin coffee ramps. Shoreditch [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Organic paleo post-ironic blog readymade, normcore keffiyeh etsy pour-over. YOLO farm-to-table readymade, organic pabst succulents chambray. Chambray master cleanse XOXO glossier stumptown quinoa ramps hella post-ironic. Lo-fi etsy +1, vice vinyl seitan kitsch roof party iceland selfies tilde sartorial austin. Freegan activated charcoal VHS tumblr, kombucha lyft austin roof party flexitarian single-origin coffee ramps. Shoreditch tumblr fanny pack, yuccie chicharrones roof party franzen. Retro salvia listicle fam before they sold out. Listicle forage master cleanse tacos health goth. Twee ethical craft beer affogato squid shabby chic enamel pin hashtag coloring book waistcoat cloud bread. Locavore hashtag gastropub gluten-free 90&#8217;s tumblr vexillologist vape subway tile.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/04/29/testing-unicorns/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
