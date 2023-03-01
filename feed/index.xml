@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Demo</title>
-	<atom:link href="http://localhost/sandbox/feed/?simply_static_page=322" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/sandbox/feed/?simply_static_page=385" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description></description>
 	<lastBuildDate>Tue, 12 Oct 2021 08:30:08 +0000</lastBuildDate>
